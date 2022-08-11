@@ -2,7 +2,7 @@
     "tipoCambio":[
         
     {
-        "id": "ACTIVA",
+        "id": 6,
         "Moneda": "MXP",
         "Valor": 19.00,
         "Accion": ""
